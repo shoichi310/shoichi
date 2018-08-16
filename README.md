@@ -1,0 +1,2 @@
+# shoichi
+software engineer
